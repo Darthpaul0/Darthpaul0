@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Darthpaul0
 - 👀 I’m interested in programming and trading
-- 🌱 I’m currently learning React.js, Python...
+- 🌱 I’m currently learning Python, Rust...
 - 📫 How to reach me: pablofr95@gmail.com
 
 <!---
